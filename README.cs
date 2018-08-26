@@ -35,6 +35,7 @@ b++;}
 int [] votos = new int[10];
 int totalvotos = 0;
 public void adicionarVoto()
+{do
 {Console.WriteLine("Eleições 2018 - Total de votos computados: " + totalvotos);
 foreach (Candidato p in Candidatos)
 {Console.WriteLine(p.Numero + " " + p.Nome);}
@@ -43,5 +44,6 @@ int voto = Console.ReadLine();
 for(int i = 0; i < vetor.lenght; i++)
 {if(vetor[i]==voto){votos[i]++;
 totalvotos++;}
-else{return;}}
+else{return;}}}
+ while(voto != -1)
 }
