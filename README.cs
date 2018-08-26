@@ -9,6 +9,7 @@ info.nome = "eu";
 
 Urna votar = new Urna();
 votar.adicionarVoto();
+votar.exibirResultado();
 }
 
 \\Classe Candidato
@@ -46,4 +47,14 @@ for(int i = 0; i < vetor.lenght; i++)
 totalvotos++;}
 else{return;}}}
  while(voto != -1)
+
+  public void exibirResultado()
+ {
+  int c = 0;
+   Console.WriteLine("Eleições 2018 - Total de votos computados: " + totalvotos);
+foreach (Candidato p in Candidatos)
+{Console.WriteLine(p.Numero + " " + p.Nome + "votos: " + votos[c]);
+c++;}
+ Console.WriteLine("Vencedor da eleição - ");
+ }
 }
