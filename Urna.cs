@@ -38,6 +38,7 @@ public class Urna
     public void AdicionarVoto(int voto){
         Candidato candidato = Candidatos.First(c => c.Numero == voto);
         AdicionarVotoCandidato(candidato);
+        TotalVotos++;
     }
 
     public bool VerificaVotoValido(int voto){
