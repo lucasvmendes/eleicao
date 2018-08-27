@@ -4,13 +4,11 @@ using System.Linq;
 
 public class Urna
 {
-    private List<Candidato> Candidatos { get; set; }
     private Dictionary<Candidato, int> VotosCandidatos { get; set; }
     private int TotalVotos { get; set; }
 
     public Urna()
     {
-        Candidatos = new List<Candidato>();
         VotosCandidatos = new Dictionary<Candidato, int>();
         TotalVotos = 0;
 
@@ -26,7 +24,6 @@ public class Urna
 
     private void AdicionarCandidato(Candidato candidato)
     {
-        Candidatos.Add(candidato);
         VotosCandidatos.Add(candidato, 0);
     }
 
@@ -36,13 +33,13 @@ public class Urna
     }
 
     public void AdicionarVoto(int voto){
-        Candidato candidato = Candidatos.First(c => c.Numero == voto);
+        Candidato candidato = VotosCandidatos.Keys.First(c => c.Numero == voto);
         AdicionarVotoCandidato(candidato);
         TotalVotos++;
     }
 
     public bool VerificaVotoValido(int voto){
-        return Candidatos.Exists(c => c.Numero == voto);
+        return VotosCandidatos.Keys.FirstOrDefault(c => c.Numero == voto) != null;
     }
 
     public void IniciarVotacao()
@@ -66,7 +63,7 @@ public class Urna
     public void MostrarResultados()
     {
         Console.WriteLine("Eleições 2018 - Total de votos computados: " + TotalVotos);
-        foreach (Candidato p in Candidatos)
+        foreach (Candidato p in VotosCandidatos.Keys)
             Console.WriteLine(p.Numero + " - " + p.Nome);
     }
 
@@ -79,7 +76,7 @@ public class Urna
     public void ExibirVencedor()
     {
         Console.WriteLine("Eleições 2018 - Total de votos computados: " + TotalVotos);
-        foreach (Candidato p in Candidatos)
+        foreach (Candidato p in VotosCandidatos.Keys)
             Console.WriteLine(p.Numero + " - " + p.Nome + " - votos: " + VotosCandidatos[p]);
 
         Candidato vencedor = SelecionarVencedor();
