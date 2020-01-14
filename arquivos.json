@@ -5,6 +5,11 @@
       "topico" : "Primeiro topico",
       "texto" : "Primeiro texto",
       "imagem" : "https://www.newsrondonia.com.br/imagensNoticias/image/IMAGEM].jpg"
+    },
+    {
+      "topico" : "Segundo topico",
+      "texto" : "Segundo texto",
+      "imagem" : "https://www.newsrondonia.com.br/imagensNoticias/image/IMAGEM].jpg"
     }
   ]
 }
