@@ -1,5 +1,10 @@
 {
-  "titulo" : "Este é o primeiro título",
-  "segundotitulo" : "Segundo título",
-  "terceirotitulo" : "Terceiro título"
+  "paginas": 
+  [
+    {
+      "topico" : "Primeiro topico",
+      "texto" : "Primeiro texto",
+      "imagem" : "https://www.newsrondonia.com.br/imagensNoticias/image/IMAGEM].jpg"
+    }
+  ]
 }
