@@ -5,11 +5,12 @@
       "topico" : "Primeiro topico",
       "texto" : "Primeiro texto",
       "imagem" : "https://www.newsrondonia.com.br/imagensNoticias/image/IMAGEM].jpg"
+      "direcionapagina" : "file:///C:/Users/m9pxnr/Downloads/segundo.html"
     },
     {
       "topico" : "Segundo topico",
       "texto" : "Segundo texto",
-      "imagem" : "https://www.newsrondonia.com.br/imagensNoticias/image/IMAGEM].jpg"
+      "direcionapagina" : "file:///C:/Users/m9pxnr/Downloads/terceiro.html"
     }
   ]
 }
