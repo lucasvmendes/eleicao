@@ -7,25 +7,26 @@
       [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nSed congue sit amet enim at placerat. \n Vivamus vitae magna vitae metus varius euismod at sit amet nunc. <\br>Vivamus cursus ipsum leo, nec malesuada tellus fringilla sit amet. <br /> Sed sodales odio mi, vel imperdiet felis placerat ac. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed iaculis nibh mi, non aliquet ex elementum id. Morbi pulvinar leo non nibh ornare maximus. Sed vulputate, lacus eget cursus congue, risus ex faucibus justo, ut pretium turpis diam at purus. Ut sed porttitor nisi. Quisque scelerisque elit sit amet sem dapibus, sit amet sollicitudin ligula gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer lacinia imperdiet eleifend. Maecenas a felis a velit laoreet ultricies. Etiam dignissim felis eu quam tincidunt, sed blandit nibh pellentesque. Vivamus quis est volutpat, eleifend leo id, sollicitudin eros. Fusce rutrum imperdiet accumsan. In vulputate metus nulla, et vehicula erat facilisis id. Praesent fringilla nibh ut fermentum pellentesque. Duis tincidunt diam at quam tempus blandit. Nam eget elit at turpis cursus fringilla ac vel ipsum. Nunc tincidunt fringilla tellus, sed dapibus nibh elementum eu. Maecenas non urna vitae velit eleifend vestibulum. Praesent vel lacus et nisl venenatis consequat non sollicitudin urna. Mauris non libero ac metus porta pellentesque. Sed aliquet semper risus, vitae cursus turpis molestie a. Aenean vitae posuere elit, vel auctor neque. Fusce ac erat ultrices, ultrices massa sed, ornare risus. Vivamus vel bibendum erat. Fusce sed augue vulputate, ullamcorper metus vel, iaculis nulla. Fusce id elementum neque. Nam semper purus ipsum. Duis turpis diam, volutpat elementum risus sed, dapibus lobortis nibh. Duis eu feugiat libero. Nulla id nibh in velit malesuada iaculis. Vestibulum auctor et lorem vel volutpat. Quisque bibendum dapibus turpis, eget lacinia felis imperdiet at. Sed vel mi eget orci ornare tristique. Praesent at mauris ut est varius venenatis. Curabitur ut est eget nunc suscipit placerat. Maecenas at sapien vel massa interdum facilisis ac ac odio. Mauris dignissim lectus et consectetur elementum. Phasellus vulputate mauris vitae purus ornare tincidunt. Sed interdum, leo et ornare egestas, augue turpis laoreet arcu, nec posuere diam lectus eget lectus. Ut hendrerit metus nulla, eget dictum nisl eleifend sed. Nulla quis elit elit."
       ],
-      "patch" : "https://www.newsrondonia.com.br/imagensNoticias/image/IMAGEM].jpg",
+      "patch" : "https://ufabcrocketdesign.com.br/images/missao-liberty.png",
       "objetivo" : "teste",
       "apogeu" : "10",
       "inicio" : "data",
       "termino" : "data"
     },
     {
-      "nome" : "Segundo topico",
+      "nome" : "Boitatá I",
       "paragrafos" : 
       [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Sed congue sit amet enim at placerat.",
-        "Vivamus vitae magna vitae metus varius euismod at sit amet nunc."
+        "O Boitatá I foi o primeiro projeto de um foguete completo da UFABC Rocket Design, contando com sistemas de propulsão, aviônica, recuperação e estrutura totalmente desenvolvidos pela equipe.",
+        "Para ser lançado no Centro de Estudos do Universo, em Brotas/SP, o Boitatá I teve que atender uma série de exigências técnicas, como cálculo de raio de segurança, sistemas de combate de incêndio e toda a estrutura oferecida pelo próprio CEU.",
+        "Pela primeira vez, foi feita uma estrutura de fibra de carbono, graças à parceria recém firmada com a ALLTEC Materiais Compostos. Dentre as novidades do foguete, estavam um sistema de eletrônica embarcada (feito com Arduino e servomotor) e um paraquedas de 1,3 m de diâmetro ejetado por molas.",
+        "Além disso, o combustível usado no motor do Boitatá I foi KNSU, replicado e testado pelo projeto Liberty. Antes do lançamento, que ocorreu em 29 de junho de 2013, foi feito um estudo fluodinâmico computacional (CFD). Por fim, o Boitatá I também foi destaque na I Semana das Engenharias da UFABC, tendo sido exposto no estande da equipe."
       ],
-      "patch" : "https://www.newsrondonia.com.br/imagensNoticias/image/IMAGEM].jpg",
-      "objetivo" : "teste",
-      "apogeu" : "1",
-      "inicio" : "data",
-      "termino" : "data"
+      "patch" : "https://ufabcrocketdesign.com.br/images/missao-boitata-logo.png",
+      "objetivo" : "Experimental",
+      "apogeu" : "1.000m",
+      "inicio" : "Outubro de 2012",
+      "termino" : "Junho de 2013"
     }
   ]
 }
