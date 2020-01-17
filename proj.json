@@ -9,7 +9,9 @@
       ],
       "patch" : "https://www.newsrondonia.com.br/imagensNoticias/image/IMAGEM].jpg",
       "objetivo" : "teste",
-	  "apogeu" : "10"
+      "apogeu" : "10",
+      "inicio" : "data",
+      "termino" : "data"
     },
     {
       "nome" : "Segundo topico",
@@ -21,7 +23,9 @@
       ],
       "patch" : "https://www.newsrondonia.com.br/imagensNoticias/image/IMAGEM].jpg",
       "objetivo" : "teste",
-	  "apogeu" : "1"
+      "apogeu" : "1",
+      "inicio" : "data",
+      "termino" : "data"
     }
   ]
 }
