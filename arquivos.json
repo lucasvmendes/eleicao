@@ -11,15 +11,15 @@
       "direcionapagina" : "file:///C:/Users/m9pxnr/Downloads/segundo.html"
     },
     {
-      "topico" : "Segundo topico",
+      "topico" : "Projetos",
       "paragrafos" : 
       [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Estes são os projetos.",
         "Sed congue sit amet enim at placerat.",
         "Vivamus vitae magna vitae metus varius euismod at sit amet nunc."
       ],
       "imagem" : "https://www.newsrondonia.com.br/imagensNoticias/image/IMAGEM].jpg",
-      "direcionapagina" : "file:///C:/Users/m9pxnr/Downloads/terceiro.html"
+      "direcionapagina" : "file:///C:/Users/Lucas/Documents/Site/Teste2.html"
     }
   ]
 }
