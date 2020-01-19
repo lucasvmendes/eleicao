@@ -22,7 +22,18 @@
       "direcionapagina" : "file:///C:/Users/Lucas/Documents/Site/Teste2.html"
     },
     {
-      "topico" : "Projetos2",
+      "topico" : "Sobre a equipe",
+      "paragrafos" : 
+      [
+        "Estes são os projetos2.",
+        "Sed congue sit amet enim at placerat.",
+        "Vivamus vitae magna vitae metus varius euismod at sit amet nunc."
+      ],
+      "imagem" : "https://www.newsrondonia.com.br/imagensNoticias/image/IMAGEM].jpg",
+      "direcionapagina" : "file:///C:/Users/Lucas/Documents/Site/Teste2.html"
+    }, 
+    {
+      "topico" : "Patrocínios",
       "paragrafos" : 
       [
         "Estes são os projetos2.",
