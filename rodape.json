@@ -10,23 +10,23 @@
     {
       "instagram" : "https://www.instagram.com/ufabcrocketdesign/"
     },
-	{
-	  "youtube" : "https://www.youtube.com/channel/UC5XIuRohmX3zLHb3aHwC18A"
-	},
-	{
-	  "nomeequipe" : "UFABC Rocket Design &copy; 2020"
-	},
-	{
-	  "endereco" :
-	  [
+    {
+      "youtube" : "https://www.youtube.com/channel/UC5XIuRohmX3zLHb3aHwC18A"
+    },
+    {
+      "nomeequipe" : "UFABC Rocket Design &copy; 2020"
+    },
+    {
+      "endereco" :
+	 [
 		"Universidade Federal do ABC",
 		"Avenida dos Estados, 5001",
 		"Santo André, SP - Brasil"
-	  ]
-	},
-	{
-	  "desenvolvido" : "https://www.google.com.br/"
-	}
+	 ]
+    },
+    {
+      "desenvolvido" : "https://www.google.com.br/"
+    }
   ],
   "motivacao" :
   [
