@@ -11,7 +11,7 @@
       "direcionapagina" : "file:///C:/Users/Lucas/Documents/Site/Teste.html"
     },
     {
-      "topico" : "Projetos",
+      "topico" : "Topico 1",
       "paragrafos" : 
       [
         "Estes são os projetos.",
@@ -22,7 +22,7 @@
       "direcionapagina" : "file:///C:/Users/Lucas/Documents/Site/Teste2.html"
     },
     {
-      "topico" : "Sobre a equipe",
+      "topico" : "Topico 2",
       "paragrafos" : 
       [
         "Estes são os projetos2.",
@@ -33,7 +33,7 @@
       "direcionapagina" : "file:///C:/Users/Lucas/Documents/Site/Teste2.html"
     }, 
     {
-      "topico" : "Patrocínios",
+      "topico" : "Topico 3",
       "paragrafos" : 
       [
         "Estes são os projetos2.",
