@@ -2,6 +2,8 @@
   "patrocinios": 
   [
     {
+      "titulopagina" : "Patrocinadores/Apoiadores",
+      "textoabaixotitulo" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "patrocinador" : "Home",
       "paragrafos" : 
       [
