@@ -11,7 +11,7 @@
       "direcionapagina" : "file:///C:/Users/Lucas/Documents/Site/Teste.html"
     },
     {
-      "topico" : "Topico 1",
+      "topico" : "Projetos",
       "paragrafos" : 
       [
         "Estes são os projetos.",
@@ -22,7 +22,7 @@
       "direcionapagina" : "file:///C:/Users/Lucas/Documents/Site/Teste2.html"
     },
     {
-      "topico" : "Topico 2",
+      "topico" : "História",
       "paragrafos" : 
       [
         "Estes são os projetos2.",
@@ -30,10 +30,10 @@
         "Vivamus vitae magna vitae metus varius euismod at sit amet nunc."
       ],
       "imagem" : "https://www.newsrondonia.com.br/imagensNoticias/image/IMAGEM].jpg",
-      "direcionapagina" : "file:///C:/Users/Lucas/Documents/Site/Teste2.html"
+      "direcionapagina" : "file:///C:/Users/Lucas/Documents/Site/Teste3.html"
     }, 
     {
-      "topico" : "Topico 3",
+      "topico" : "Apoiadores",
       "paragrafos" : 
       [
         "Estes são os projetos2.",
@@ -41,7 +41,7 @@
         "Vivamus vitae magna vitae metus varius euismod at sit amet nunc."
       ],
       "imagem" : "https://www.newsrondonia.com.br/imagensNoticias/image/IMAGEM].jpg",
-      "direcionapagina" : "file:///C:/Users/Lucas/Documents/Site/Teste2.html"
+      "direcionapagina" : "file:///C:/Users/Lucas/Documents/Site/Teste4.html"
     }
   ]
 }
