@@ -5,24 +5,24 @@
       "topico" : "Início",
       "paragrafos" : 
       [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nSed congue sit amet enim at placerat. \n Vivamus vitae magna vitae metus varius euismod at sit amet nunc. <\br>Vivamus cursus ipsum leo, nec malesuada tellus fringilla sit amet. <br /> Sed sodales odio mi, vel imperdiet felis placerat ac. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed iaculis nibh mi, non aliquet ex elementum id. Morbi pulvinar leo non nibh ornare maximus. Sed vulputate, lacus eget cursus congue, risus ex faucibus justo, ut pretium turpis diam at purus. Ut sed porttitor nisi. Quisque scelerisque elit sit amet sem dapibus, sit amet sollicitudin ligula gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer lacinia imperdiet eleifend. Maecenas a felis a velit laoreet ultricies. Etiam dignissim felis eu quam tincidunt, sed blandit nibh pellentesque. Vivamus quis est volutpat, eleifend leo id, sollicitudin eros. Fusce rutrum imperdiet accumsan. In vulputate metus nulla, et vehicula erat facilisis id. Praesent fringilla nibh ut fermentum pellentesque. Duis tincidunt diam at quam tempus blandit. Nam eget elit at turpis cursus fringilla ac vel ipsum. Nunc tincidunt fringilla tellus, sed dapibus nibh elementum eu. Maecenas non urna vitae velit eleifend vestibulum. Praesent vel lacus et nisl venenatis consequat non sollicitudin urna. Mauris non libero ac metus porta pellentesque. Sed aliquet semper risus, vitae cursus turpis molestie a. Aenean vitae posuere elit, vel auctor neque. Fusce ac erat ultrices, ultrices massa sed, ornare risus. Vivamus vel bibendum erat. Fusce sed augue vulputate, ullamcorper metus vel, iaculis nulla. Fusce id elementum neque. Nam semper purus ipsum. Duis turpis diam, volutpat elementum risus sed, dapibus lobortis nibh. Duis eu feugiat libero. Nulla id nibh in velit malesuada iaculis. Vestibulum auctor et lorem vel volutpat. Quisque bibendum dapibus turpis, eget lacinia felis imperdiet at. Sed vel mi eget orci ornare tristique. Praesent at mauris ut est varius venenatis. Curabitur ut est eget nunc suscipit placerat. Maecenas at sapien vel massa interdum facilisis ac ac odio. Mauris dignissim lectus et consectetur elementum. Phasellus vulputate mauris vitae purus ornare tincidunt. Sed interdum, leo et ornare egestas, augue turpis laoreet arcu, nec posuere diam lectus eget lectus. Ut hendrerit metus nulla, eget dictum nisl eleifend sed. Nulla quis elit elit."
+      ""
       ],
       "imagem" : "https://lucasvmendes.github.io/eleicao/Logotipo%20Novo.png",
-      "direcionapagina" : "file:///C:/Users/Lucas/Documents/Site/Inicio.html"
+      "direcionapagina" : "Inicio.html"
     },
     {
-      "topico" : "Projetos",
+      "topico" : "História",
       "paragrafos" : 
       [
-        "Estes são os projetos.",
+        "Estes são os História.",
         "Sed congue sit amet enim at placerat.",
         "Vivamus vitae magna vitae metus varius euismod at sit amet nunc."
       ],
       "imagem" : "https://www.newsrondonia.com.br/imagensNoticias/image/IMAGEM].jpg",
-      "direcionapagina" : "file:///C:/Users/Lucas/Documents/Site/Projetos.html"
+      "direcionapagina" : "Historia.html"
     },
     {
-      "topico" : "História",
+      "topico" : "Projetos",
       "paragrafos" : 
       [
         "Estes são os projetos2.",
@@ -30,7 +30,7 @@
         "Vivamus vitae magna vitae metus varius euismod at sit amet nunc."
       ],
       "imagem" : "https://www.newsrondonia.com.br/imagensNoticias/image/IMAGEM].jpg",
-      "direcionapagina" : "file:///C:/Users/Lucas/Documents/Site/Historia.html"
+      "direcionapagina" : "Projetos.html"
     }, 
     {
       "topico" : "Apoiadores",
@@ -41,7 +41,7 @@
         "Vivamus vitae magna vitae metus varius euismod at sit amet nunc."
       ],
       "imagem" : "https://www.newsrondonia.com.br/imagensNoticias/image/IMAGEM].jpg",
-      "direcionapagina" : "file:///C:/Users/Lucas/Documents/Site/Apoiadores.html"
+      "direcionapagina" : "Apoiadores.html"
     }
   ]
 }
