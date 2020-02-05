@@ -4,6 +4,56 @@
     {
       "titulopagina" : "Projetos",
       "textoabaixotitulo" : "Nesta página você encontra todos os dados, informações técnicas e imagens de cada um dos nossos projetos, desde a Missão Liberty, em 2010, até o Boitatá X, de 2015.",
+      "nome" : "ANGRA",
+      "paragrafos" : 
+      [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+      ],
+      "patch" : "https://ufabcrocketdesign.com.br/images/missao-liberty.png",
+      "objetivo" : "Competição",
+      "apogeu" : "2517 m",
+      "inicio" : "Janeiro de 2018",
+      "termino" : "Agosto de 2019"
+    },
+    {
+      "nome" : "HÓRUS",
+      "paragrafos" : 
+      [
+      "",
+      "",
+      "",
+      "",
+      ""
+      ],
+      "patch" : "https://ufabcrocketdesign.com.br/images/missao-liberty.png",
+      "objetivo" : "Experimental",
+      "apogeu" : "500 m",
+      "inicio" : "Julho de 2017",
+      "termino" : "Julho de 2018"
+    },
+    {
+      "nome" : "TUPÃ",
+      "paragrafos" : 
+      [
+      "",
+      "",
+      "",
+      "",
+      ""
+      ],
+      "patch" : "https://ufabcrocketdesign.com.br/images/missao-liberty.png",
+      "objetivo" : "Competição",
+      "apogeu" : " - ",
+      "inicio" : "Agosto de 2016",
+      "termino" : "Junho de 2017"
+    },
+    {
       "nome" : "BOITATÁ X",
       "paragrafos" : 
       [
